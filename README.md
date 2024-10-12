@@ -26,3 +26,8 @@ HRS is a longitudinal survey focusing on a representative sample of US individua
 | 5_descriptives            | Basic descriptive statistics of the main variables                                |
 | 6_models                  | Main analyses                                                                     | 
 | 7_robustness_checks       | Robustness checks                                                                 |
+
+## Software 
+
+- Stata 
+
