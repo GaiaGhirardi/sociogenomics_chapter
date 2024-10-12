@@ -12,7 +12,7 @@ HRS is a longitudinal survey focusing on a representative sample of US individua
 
 ## Datasets
 
-'pgenscore4e_r', 'randhrs1992_2018v2', and 'trk2020tr_r'. 
+'pgenscore4e_r', 'randhrs1992_2018v2', and 'trk2020tr_r'
 
 ## Dofile description 
 
